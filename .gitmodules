@@ -1,0 +1,9 @@
+[submodule "themes/Interface"]
+	path = themes/Interface
+	url = https://github.com/el0ooo/4w4-2024
+[submodule "plugins/carrousel"]
+	path = plugins/carrousel
+	url = https://github.com/el0ooo/carrousel-2024
+[submodule "plugins/voyage"]
+	path = plugins/voyage
+	url = https://github.com/el0ooo/voyage
