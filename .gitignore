@@ -8,6 +8,7 @@ wp-content/themes/*/
 wp-content/plugins/*/
 !wp-content/plugins/carrousel/
 !wp-content/plugins/voyage/
+!wp-content/plugins/les-posts/
 // Ne pas ignorer les fichiers .gitignore et readme.md à la racine
 !.gitignore
 !readme.md
