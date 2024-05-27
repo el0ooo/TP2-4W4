@@ -1,0 +1,13 @@
+/*/
+!wp-content/
+wp-content/*/
+!wp-content/themes/
+wp-content/themes/*/
+!wp-content/themes/Interface/
+!wp-content/plugins/
+wp-content/plugins/*/
+!wp-content/plugins/carrousel/
+!wp-content/plugins/voyage/
+// Ne pas ignorer les fichiers .gitignore et readme.md à la racine
+!.gitignore
+!readme.md
